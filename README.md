@@ -5,3 +5,7 @@ somewhere.
 
 These things might be obvious to other people.  Indeed, some entries I
 have in mind come from someone telling me "obviously, ...".
+
+I put this in this format because I saw other `til` repos, most of
+which seem to draw from
+[`thoughtbot/til`](https://github.com/thoughtbot/til).
